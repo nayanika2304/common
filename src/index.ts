@@ -10,3 +10,5 @@ const color: Color = {
     green : 10
 }
 
+export default color;
+
